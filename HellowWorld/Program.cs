@@ -11,7 +11,7 @@ namespace HellowWorld
 
        public static bool test()
         {
-            return false;
+            return true;
         }
     }
 }
